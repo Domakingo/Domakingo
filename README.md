@@ -14,6 +14,7 @@ My name is Francesco, known online as **Domakingo**, and I’m a student passion
 
 ### **Languages I'm Learning**:  
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://en.wikipedia.org/wiki/Flutter_(software))
 
 ### **Languages I Want to Learn**:  
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)  
